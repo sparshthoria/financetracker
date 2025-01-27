@@ -1,1 +1,1 @@
-# financetracker
+# BudgeBuddy is a personal finance tracker web app which lets users track their incomes, expenses and balances through different transactions, accounts and categroies. Tech Stack: Next.js, Hono ,React, NeonDB, Drizzle ORM and Clerk Auth
